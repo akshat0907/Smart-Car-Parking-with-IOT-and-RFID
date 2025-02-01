@@ -1,7 +1,9 @@
 # Smart-car-parking-with-IOT-and-RFID
 
 ## Introduction
-This RFID-Based Car Parking System integrates IoT and RFID technology to manage parking slots and track user information. It uses the Blynk App for real-time monitoring of parking slots and gate control. Additionally, the system logs the entry details (person's name, time, and date) into a Google Sheet each time an RFID cardholder enters the parking lot. This provides a smart and automated solution for parking management with real-time tracking and data logging.
+This project integrates IoT and RFID technology to create an efficient and automated car parking system. It uses RFID cards for user authentication, allowing access to the parking lot while logging entry details such as the person's name, time, and date into a Google Sheet. The system also leverages the Blynk app for real-time monitoring of parking slot availability and gate control. This smart solution enhances parking management by providing seamless automation, real-time tracking, and secure data logging.
+
+
 
 ## Features
 - RFID-Based Detection: Automatic car detection using unique RFID tags/cards.
